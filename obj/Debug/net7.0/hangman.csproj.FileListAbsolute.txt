@@ -1,0 +1,14 @@
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.AssemblyInfoInputs.cache
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.AssemblyInfo.cs
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.csproj.CoreCompileInputs.cache
+/home/nathan/Documents/Projects/C#/hangman/bin/Debug/net7.0/hangman
+/home/nathan/Documents/Projects/C#/hangman/bin/Debug/net7.0/hangman.deps.json
+/home/nathan/Documents/Projects/C#/hangman/bin/Debug/net7.0/hangman.runtimeconfig.json
+/home/nathan/Documents/Projects/C#/hangman/bin/Debug/net7.0/hangman.dll
+/home/nathan/Documents/Projects/C#/hangman/bin/Debug/net7.0/hangman.pdb
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.dll
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/refint/hangman.dll
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.pdb
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/hangman.genruntimeconfig.cache
+/home/nathan/Documents/Projects/C#/hangman/obj/Debug/net7.0/ref/hangman.dll
